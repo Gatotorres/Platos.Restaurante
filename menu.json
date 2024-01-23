@@ -1,0 +1,101 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "plato": {
+                "titulo": {
+                    "esp": "Jamon 100% Ibérico de Bellota con grissini de cristal",
+                    "eng": "Iberian ham 100% acorn-fed with cristal grissini",
+                    "rus": "Иберийская ветчина 100% беллота с кристальными гриссини",
+                    "ale": "100% Ibérico Bellota-Schinken mit Glasgrissini",
+                    "fra": "Jambon 100% ibérique de gland avec des grissini de cristal",
+                    "ita": "Prosciutto 100% Ibérico di Bellota con grissini di cristallo"
+                    // Otras traducciones...
+                },
+                "descripcion": {
+                    "esp": "",
+                    "eng": "",
+                    "rus": "",
+                    "ale": "",
+                    "fra": "",
+                    "ita": ""
+                    // Otras traducciones...
+                },
+                "foto": {
+                    "es": "./imagenes/Iberian_ham.jpg",
+                    // Otras traducciones...
+                },
+                "alergeno": {
+                    "gluten": "./imagenes/alergenos/gluten.jpg",
+                    "lacteos": "./imagenes/alergenos/lacteos.jpg",
+                    "frutos secos": "./imagenes/alergenos/frutos_secos.jpg"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "plato": {
+                "titulo": {
+                    "esp": "Queso Manchego curado servido con frutos secos y miel",
+                    "eng": "Cured Manchego cheese served with nuts, dried fruit and honey",
+                    "rus": "Выдержанный манчего с сухофруктами и медом",
+                    "ale": "Gereifter Manchego-Käse serviert mit Nüssen und Honig",
+                    "fra": "Fromage Manchego affiné servi avec des fruits secs et du miel",
+                    "ita": "Formaggio Manchego stagionato servito con frutta secca e miele"
+                    // Otras traducciones...
+                },
+                "descripcion": {
+                    "esp": "",
+                    "eng": "",
+                    "rus": "",
+                    "ale": "",
+                    "fra": "",
+                    "ita": ""
+                    // Otras traducciones...
+                },
+                "foto": {
+                    "es": "./imagenes/Cured_Manchego_cheese.jpg",
+                    // Otras traducciones...
+                },
+                "alergeno": {
+                    "gluten": "./imagenes/alergenos/gluten.jpg",
+                    "lacteos": "./imagenes/alergenos/lacteos.jpg",
+                    "frutos secos": "./imagenes/alergenos/frutos_secos.jpg"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "plato": {
+                "titulo": {
+                    "esp": "...",
+                    "eng": "...",
+                    "rus": "...",
+                    "ale": "...",
+                    "fra": "...",
+                    "ita": "..."
+                    // Otras traducciones...
+                },
+                "descripcion": {
+                    "esp": "...",
+                    "eng": "...",
+                    "rus": "...",
+                    "ale": "...",
+                    "fra": "...",
+                    "ita": "..."
+                    // Otras traducciones...
+                },
+                "foto": {
+                    "es": "./imagenes/Bread_Coca_with_Tomato_and_Olive_Oil.png",
+                    // Otras traducciones...
+                },
+                "alergeno": {
+                    "gluten": "./imagenes/alergenos/gluten.jpg",
+                    "lacteos": "./imagenes/alergenos/lacteos.jpg",
+                    "frutos secos": "./imagenes/alergenos/frutos_secos.jpg"
+                }
+            }
+        }
+        // Otros platos...
+    ]
+}
